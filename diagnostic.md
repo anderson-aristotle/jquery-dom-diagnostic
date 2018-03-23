@@ -1,7 +1,6 @@
 ## Question 1
 
-Using `inspect element`, write four selectors found on the main page for this
-GitHub repo.
+What is the DOM?
 
 <!-- your answer starts here -->
 

@@ -34,8 +34,6 @@ You may use **any resource** other than each other to complete this diagnostic.
 This includes referencing talk materials, appropriate documentation, and
 searching for help online.
 
-![Dom Tree](https://cloud.githubusercontent.com/assets/10408784/16956664/55e2d6b4-4da7-11e6-8b7e-099d124a7403.png)
-
 ## [License](LICENSE)
 
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.

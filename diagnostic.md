@@ -2,7 +2,7 @@
 
 ## Question 1
 
-What is the DOM?
+What does DOM stand for?
 
 <!-- your answer starts here -->
 

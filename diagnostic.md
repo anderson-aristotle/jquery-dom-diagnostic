@@ -1,7 +1,8 @@
+![Dom Tree](https://cloud.githubusercontent.com/assets/10408784/16956664/55e2d6b4-4da7-11e6-8b7e-099d124a7403.png)
+
 ## Question 1
 
-Using `inspect element`, write four selectors found on the main page for this
-GitHub repo.
+What does DOM stand for?
 
 <!-- your answer starts here -->
 
@@ -9,9 +10,7 @@ GitHub repo.
 
 ## Question 2
 
-Using the diagram in the `README` file, what are two ways you could return ALL
-list items (`li`) using jQuery? This is intentionally vague. (Assume starting
-at the `OL` DOM node).
+Explain the hierarchy/relationship between `<html>`, `<body>`, and `<head>` tags in the DOM.
 
 <!-- your answer starts here -->
 
@@ -19,8 +18,9 @@ at the `OL` DOM node).
 
 ## Question 3
 
-Write the jQuery code to navigate from one of the list item (`li`) DOM nodes to
-the `form` DOM node. (Assume the list item has a class of "listerItem").
+Using the diagram at the top of the file, write the jQuery code to navigate from
+one of the list item (`li`) DOM nodes to the `form` DOM node. (Assume the list
+item has a class of "listerItem").
 
 <!-- your answer starts here -->
 

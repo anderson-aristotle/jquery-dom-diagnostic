@@ -10,7 +10,8 @@ What does DOM stand for?
 
 ## Question 2
 
-Explain the hierarchy/relationship between `<html>`, `<body>`, and `<head>` tags in the DOM.
+Explain the hierarchy/relationship between `<html>`, `<body>`, and `<head>` tags
+in the DOM.
 
 <!-- your answer starts here -->
 
